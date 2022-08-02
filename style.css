@@ -3,7 +3,7 @@ body {
 }
 
 #root {
-  background-image: url("/assets/kaaliz.jpg");
+  background-image: url("./assets/kaaliz.jpg");
   object-fit: cover;
   background-size: cover;
   background-position: 50% 50%;
@@ -50,6 +50,10 @@ body {
   text-align: center;
   margin-top: 20px;
   font-weight: 300;
+}
+
+.contact-details > a {
+  color: #ffffff
 }
 
 @media screen and (max-width: 830px) {
