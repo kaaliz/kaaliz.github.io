@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kaaliz.com
+Token: e3a51fdfce301e8396330d74ee79d807b7390bbc91280fbb080ce6273e06859a
